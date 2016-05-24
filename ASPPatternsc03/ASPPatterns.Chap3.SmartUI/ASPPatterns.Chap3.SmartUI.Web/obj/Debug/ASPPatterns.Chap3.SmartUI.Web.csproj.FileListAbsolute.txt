@@ -1,0 +1,20 @@
+C:\Projects\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.dll
+C:\Projects\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.pdb
+C:\Projects\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.dll
+C:\Projects\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.pdb
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.dll
+C:\Projects\Wrox ASP.NET Design Patterns\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.pdb
+D:\src\demo1\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.dll
+D:\src\demo1\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.pdb
+D:\src\demo1\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.csprojResolveAssemblyReference.cache
+D:\src\demo1\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.dll
+D:\src\demo1\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.pdb
+D:\src\demo1\aspnetdesignpatterns\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.dll
+D:\src\demo1\aspnetdesignpatterns\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\bin\ASPPatterns.Chap3.SmartUI.Web.pdb
+D:\src\demo1\aspnetdesignpatterns\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.csprojResolveAssemblyReference.cache
+D:\src\demo1\aspnetdesignpatterns\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.dll
+D:\src\demo1\aspnetdesignpatterns\aspnetdesignpatterns\ASPPatternsc03\ASPPatterns.Chap3.SmartUI\ASPPatterns.Chap3.SmartUI.Web\obj\Debug\ASPPatterns.Chap3.SmartUI.Web.pdb
