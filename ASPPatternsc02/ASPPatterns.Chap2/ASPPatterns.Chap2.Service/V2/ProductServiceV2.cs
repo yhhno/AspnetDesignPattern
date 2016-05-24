@@ -57,6 +57,8 @@ namespace ASPPatterns.Chap2.Service.V2
     //最后，介绍了在不希望缓存数据时，如何使用Null Object模式作为“替身”；
 
 
+
+
     //public class ProductServiceV2
     //{
     //    private ProductRepositoryV2 _productRepositoryV2;
